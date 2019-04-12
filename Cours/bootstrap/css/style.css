@@ -1,0 +1,12 @@
+img{
+
+    width: 50%;
+    height: 50%;
+}
+
+.colp{
+    
+    width: 50%; 
+    float: left; 
+    display:inline;
+} 

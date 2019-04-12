@@ -1,0 +1,7 @@
+.titre{
+    background-color: azure;
+    cursor: pointer;
+    }
+    .titre,.contenu{
+    border: 1px solid grey;
+    }

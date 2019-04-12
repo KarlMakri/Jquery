@@ -1,0 +1,16 @@
+.boite, .bouton{
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-right: 30px;
+    cursor: pointer;
+}
+.rouge{
+    background-color: red;
+}
+.verte{
+    background-color: green;
+}
+.jaune{
+    background-color: yellow;
+}
